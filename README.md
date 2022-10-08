@@ -2,17 +2,10 @@
   <h1> Autoria - Projeto Chuva: Arduino </h1>
   <p> Projeto realizado com Arduino. A ideia era construir um aparelho que identificasse quando estivesse chovendo e avisasse o usuário através de estímulos sonoros e visuais. </p>
   
-<h3> Participantes: </h3>
- 
-  <a href="https://github.com/Pedroo-Nietoo">Pedroo-Nietoo - </a>
-<a href="https://github.com/fanilinho22">fanilinho22 - </a>
-<a href="https://github.com/sushivermeio">sushivermeio</a>
-
-  
   <br>
     
   <h3> IDE utilizado: </h3>
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-22272e?style=for-the-badge&logo=Arduino&logoColor=00979D"/>
+  <img height="50px" width="80px" alt="arduino" src="https://user-images.githubusercontent.com/102625628/194710809-2985b636-235c-4776-96ff-86eacdc7fbd4.png"/>
 
   <br>
 
