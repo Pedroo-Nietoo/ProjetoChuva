@@ -30,7 +30,7 @@ void loop()
   Serial.print(valor_analogico);
  
   if (valor_analogico > 0 && valor_analogico < 400){
-    Serial.println(" Status: Solo umido");
+    Serial.println(" Status: Solo seco");
     apagaleds();
     digitalWrite(pino_led_verde, HIGH);}
  
@@ -40,7 +40,7 @@ void loop()
     digitalWrite(pino_led_amarelo, HIGH);}
  
   if (valor_analogico > 800 && valor_analogico < 1024){
-    Serial.println(" Status: Solo seco");
+    Serial.println(" Status: Solo úmido");
     apagaleds();
     digitalWrite(pino_led_vermelho, HIGH);}
   delay(100);
